@@ -1,6 +1,6 @@
 ---
 name: "Bug Report"
-about: "Report a bug to be fixed"
+description: "Report a bug to be fixed."
 title: "[Bug]: "
 labels: ["bug"]
 assignees: []
@@ -26,10 +26,6 @@ body:
     attributes:
       label: "Steps to Reproduce"
       description: "List the exact steps to recreate the bug."
-      placeholder: |
-        1. Run `...`
-        2. Click `...`
-        3. Observe the issue
     validations:
       required: true
 
@@ -38,7 +34,6 @@ body:
     attributes:
       label: "Expected Behavior"
       description: "Describe what should have happened instead."
-      placeholder: "e.g. The program should open the settings menu without crashing."
     validations:
       required: true
 
@@ -47,7 +42,6 @@ body:
     attributes:
       label: "Actual Behavior"
       description: "Describe what actually happened."
-      placeholder: "e.g. The program crashes immediately with error XYZ."
     validations:
       required: true
 
@@ -56,7 +50,6 @@ body:
     attributes:
       label: "Operating System"
       description: "Which OS are you using?"
-      placeholder: "WindOS"
       options:
         - Windows 10
         - Windows 11
@@ -81,7 +74,6 @@ body:
     attributes:
       label: "Error Message or Logs"
       description: "Paste any error messages or logs related to the issue."
-      placeholder: "e.g. Stack trace or console output"
       render: shell
     validations:
       required: false
@@ -91,7 +83,6 @@ body:
     attributes:
       label: "Additional Context"
       description: "Any extra details or relevant information?"
-      placeholder: "e.g. Any other observations about the bug?"
     validations:
       required: false
 
@@ -109,6 +100,5 @@ body:
     attributes:
       label: "Screenshot (if applicable)"
       description: "Paste a link to a screenshot or attach it below."
-      placeholder: "e.g. Drag and drop an image here"
     validations:
       required: false
