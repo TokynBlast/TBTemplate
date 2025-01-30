@@ -1,5 +1,5 @@
 # Bspace Licence
-Version 3.0.0<br>
+Version 3.0.1<br>
 Licence devolped by Tokyn Blast<br>
 Copyright (c) 2025 Tokyn Blast
 
@@ -14,8 +14,8 @@ Copyright (c) 2025 Tokyn Blast
 
 
 ## Things Before Reading
-- **Viewing** This licence is meant to be viewed via Github MD or similar means.
-- **Change** This licence is subject to change, with or without notice.
+- **Viewing**: This licence is meant to be viewed via markdown or similar means.
+- **Change**: This licence is subject to change, with or without notice.
 
 
 ## 1. Grant of Rights
