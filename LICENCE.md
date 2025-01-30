@@ -1,5 +1,5 @@
 # Bspace Licence
-Version 3.0.1<br>
+Version 3.1.0<br>
 Licence devolped by Tokyn Blast<br>
 Copyright (c) 2025 Tokyn Blast
 
@@ -75,13 +75,19 @@ or if the Program is not meant to be used to make things.
 
 ## 8. Licence Modifications
 
-This licence may be modified, as long as liability is left in it's exact form, except for numbering the section.
-Only a Developer or Original Author may modify this licence.
+This licence may be modified, as long as sections:
+ 6
+ 8
+ 9
+are left in their exact form, except for numbering of the section.
+Only am Original Author may modify this licence.
 The copyright to TokynBlast must also remain.
-
+It must be marked that it is modified. EX:<br>
+```1.4.2-Modified```, otherwise, this licence isn't legally valid.
 
 ## 9. Void of Contract
 
 This licence will only become void if, and only if all Programs that use (and copies of) this licence are destroyed on any device the user uses.<br>
 This includes any accounts you use on any device, public or private.<br>
-This includes modified versions of the licence.
+This includes modified versions of the licence too.
+This does not include a licence not attached to any program (e.g. downloading this licence)
