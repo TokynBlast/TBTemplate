@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## 🚀 Feature Request 🥔
+        ## 🚀 Feature Request
         Thank you for suggesting a new feature! Please fill out the form below.
   
   - type: input
@@ -51,4 +51,7 @@ body:
     id: terms
     attributes:
       label: "Agreement"
-      description: "By submitting this request, you agree that this feature is not currently planned or in developm
+      description: "By submitting this request, you agree that you checked to make sure this feature is not currently in development."
+      options:
+        - label: "I confirm that this feature request is new and not already in development."
+          required: true
