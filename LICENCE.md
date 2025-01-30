@@ -1,19 +1,20 @@
 # Bspace Licence
-Version 3.1.0<br>
+Version 3.2.0<br>
 Licence devolped by Tokyn Blast<br>
 Copyright (c) 2025 Tokyn Blast
+
 
 ## Definitions
 
 - **"Program" and "The Program"** refers to the program under this licence and any of its variations
-- **"Original Author"** refers to the original developer of the Program
+- **"Author"** refers to the original developer of the Program
 - **"Developer"** refers to any person or organization who is making or has made a modified version of the Program
 - **"Variation"** refers to any modified version of the Program as defined in Section 4
 - **"User"** refers to anybody who is using the original Program, or a modified version
 - **"[link]"** is a refrence link to the original Program, and the variation the Program is based on (If applicable)
 
 
-## Things Before Reading
+## PreKnowledge
 - **Viewing**: This licence is meant to be viewed via markdown or similar means.
 - **Change**: This licence is subject to change, with or without notice.
 
@@ -29,31 +30,33 @@ Subject to the terms of this Licence, you are granted the rights to:
 
 ## 2. Commercial Use
 
-Commercial use is permitted at any time, unless otherwsie stated.<br>
+Commercial use is permitted at any time, unless otherwsie stated by any written means.<br>
+Written means must be publicly available and noticable.
 
 
 ## 3. Conditions
 
 All Variations must:
-1. Visibly attribute the Original Author
+1. **VISIBLY** and **NOTICEABLY** attribute the Author
 
 
 ## 4. Definition of Variations
 
 A Variation includes, but is not limited to:
-1. Complete or partial copies of the Program
+1. Partial copies of the Program
 2. Derivative works based on the Program
 3. Works incorporating any portion of the source code
 4. Modified versions of the source code
+
 
 ## 5. Attribution Requirements
 
 When publishing a Variation, the following must be prominently displayed on the download page:
 
 ```
-This is a variation of Program by Original Author
+This is a variation of Program by Author
 ```
-And, if applicable:
+And if applicable:
 
 ```
 This is based on a variation of Program by Developer
@@ -62,32 +65,36 @@ This is based on a variation of Program by Developer
 
 ## 6. Liability
 
-The Original Author is not liable for any Variations or modifications made by other Developers.<br>
+The Author is not liable for any Variations or modifications made by other Developers.<br>
 This includes harm to either self, others, properties, or other damagable objects.<br>
-This especially includes digital, physical and all other mediums, Including the internet itself.<br>
+This especially includes digital, physical and all other mediums, Including the internet (Or it's contents) itself.<br>
+This applies, without warranties of any kind, express or implied.<br>
 
 
 ## 7. Profit and Monetization
 
-Developers may monetize the Program, unless explicitly prohibited by the Original Author through any means (verbal, digital, physical, or otherwise),<br>
-or if the Program is not meant to be used to make things.
+Developers may monetize the Program, unless explicitly prohibited by the Author through any written means (digital, physical, or otherwise),<br>
+or if the Program is not meant to be used to make things.<br>
+Written means **MUST** be publicly available and noticable.
 
 
 ## 8. Licence Modifications
 
-This licence may be modified, as long as sections:
- 6
- 8
- 9
-are left in their exact form, except for numbering of the section.
-Only am Original Author may modify this licence.
-The copyright to TokynBlast must also remain.
-It must be marked that it is modified. EX:<br>
-```1.4.2-Modified```, otherwise, this licence isn't legally valid.
+This licence may be modified by Developers for their own Variations, provided that Sections 6, 8, and 9, as well as the PreKnowledge and Definitions sections, remain unchanged except for numbering adjustments.<br>
+Only the Author may create official new versions of this licence. Modified versions must be clearly marked (e.g., 3.1.2-Modified), or they are invalid.
 
-## 9. Void of Contract
 
-This licence will only become void if, and only if all Programs that use (and copies of) this licence are destroyed on any device the user uses.<br>
-This includes any accounts you use on any device, public or private.<br>
-This includes modified versions of the licence too.
-This does not include a licence not attached to any program (e.g. downloading this licence)
+## 9. Void of Contract  
+
+This licence remains in effect unless and until the User removes all copies of the Program and any associated Variations within their control. This includes:  
+
+- Deleting the Program and any Variations from all devices the User owns or operates  
+- Removing any cloud-stored or online copies under the User’s control  
+- Closing or disassociating any accounts that distribute or maintain the Program  
+
+This clause **does not require** the User to remove:  
+
+- Cached versions, backups, or archival copies outside their direct control  
+- Publicly available copies distributed by other parties  
+
+Once the Program and all Variations are removed as described above, the rights granted under this licence no longer apply to the User.  
