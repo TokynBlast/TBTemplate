@@ -1,6 +1,10 @@
 ---
 name: Report a bug
 about: Report a bug to be fixed
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 **Recreating bug**
