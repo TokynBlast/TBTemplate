@@ -94,11 +94,3 @@ body:
       options:
         - label: "I have tested this on the latest version, and the bug still occurs."
           required: true
-
-  - type: textarea
-    id: screenshot
-    attributes:
-      label: "Screenshot (if applicable)"
-      description: "Paste a link to a screenshot or attach it below."
-    validations:
-      required: false
