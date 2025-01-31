@@ -1,12 +1,12 @@
-# Bspace Licence
-Version 3.2.0<br>
-Licence devolped by Tokyn Blast<br>
+# Bspace License
+Version 3.2.1<br>
+License devolped by Tokyn Blast<br>
 Copyright (c) 2025 Tokyn Blast
 
 
 ## Definitions
 
-- **"Program" and "The Program"** refers to the program under this licence and any of its variations
+- **"Program" and "The Program"** refers to the program under this license and any of its variations
 - **"Author"** refers to the original developer of the Program
 - **"Developer"** refers to any person or organization who is making or has made a modified version of the Program
 - **"Variation"** refers to any modified version of the Program as defined in Section 4
@@ -15,17 +15,17 @@ Copyright (c) 2025 Tokyn Blast
 
 
 ## PreKnowledge
-- **Viewing**: This licence is meant to be viewed via markdown or similar means.
-- **Change**: This licence is subject to change, with or without notice.
+- **Viewing**: This license is meant to be viewed via markdown or similar means.
+- **Change**: This license is subject to change, with or without notice.
 
 
 ## 1. Grant of Rights
 
-Subject to the terms of this Licence, you are granted the rights to:
+Subject to the terms of this License, you are granted the rights to:
 1. Use the Program for any legal purpose
 2. Modify the Program
 3. Distribute variations of the Program
-4. Modify this licence
+4. Modify this license
 
 
 ## 2. Commercial Use
@@ -78,15 +78,15 @@ or if the Program is not meant to be used to make things.<br>
 Written means **MUST** be publicly available and noticable.
 
 
-## 8. Licence Modifications
+## 8. License Modifications
 
-This licence may be modified by Developers for their own Variations, provided that Sections 6, 8, and 9, as well as the PreKnowledge and Definitions sections, remain unchanged except for numbering adjustments.<br>
-Only the Author may create official new versions of this licence. Modified versions must be clearly marked (e.g., 3.1.2-Modified), or they are invalid.
+This license may be modified by Developers for their own Variations, provided that Sections 6, 8, and 9, as well as the PreKnowledge and Definitions sections, remain unchanged except for numbering adjustments.<br>
+Only the Author may create official new versions of this license. Modified versions must be clearly marked (e.g., 3.1.2-Modified), or they are invalid.
 
 
 ## 9. Void of Contract  
 
-This licence remains in effect unless and until the User removes all copies of the Program and any associated Variations within their control. This includes:  
+This license remains in effect unless and until the User removes all copies of the Program and any associated Variations within their control. This includes:  
 
 - Deleting the Program and any Variations from all devices the User owns or operates  
 - Removing any cloud-stored or online copies under the User’s control  
@@ -97,4 +97,4 @@ This clause **does not require** the User to remove:
 - Cached versions, backups, or archival copies outside their direct control  
 - Publicly available copies distributed by other parties  
 
-Once the Program and all Variations are removed as described above, the rights granted under this licence no longer apply to the User.  
+Once the Program and all Variations are removed as described above, the rights granted under this license no longer apply to the User.  
