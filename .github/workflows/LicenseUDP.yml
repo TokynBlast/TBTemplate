@@ -19,7 +19,7 @@ jobs:
               echo "Doing nothing. LicLock found."
               exit 0
           else
-              curl -o temp_lic.md https://raw.githubusercontent.com/TokynBlast/BottleNeck/refs/heads/main/LICENSE.md
+              curl -o temp_lic.md https://raw.githubusercontent.com/TokynBlast/TBTemplate/refs/heads/main/LICENSE.md
               if ! diff temp_lic.md LICENSE.md; then
                   mv temp_lic.md LICENSE.md
                   rm temp_lic.md
