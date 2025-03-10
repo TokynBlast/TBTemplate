@@ -1,5 +1,5 @@
 # Bspace License
-Version 3.2.1<br>
+Version 3.2.2<br>
 License devolped by Tokyn Blast<br>
 Copyright (c) 2025 Tokyn Blast
 
@@ -22,7 +22,7 @@ Copyright (c) 2025 Tokyn Blast
 ## 1. Grant of Rights
 
 Subject to the terms of this License, you are granted the rights to:
-1. Use the Program for any legal purpose
+1. Use the Program for any legal purpose (Not commiting a crime, in any participants location)
 2. Modify the Program
 3. Distribute variations of the Program
 4. Modify this license
@@ -51,7 +51,7 @@ A Variation includes, but is not limited to:
 
 ## 5. Attribution Requirements
 
-When publishing a Variation, the following must be prominently displayed on the download page:
+When publishing a Variation, the following must be prominently displayed on the download page, source code, or some way the user and distributor can see it:
 
 ```
 This is a variation of Program by Author
@@ -81,7 +81,7 @@ Written means **MUST** be publicly available and noticable.
 ## 8. License Modifications
 
 This license may be modified by Developers for their own Variations, provided that Sections 6, 8, and 9, as well as the PreKnowledge and Definitions sections, remain unchanged except for numbering adjustments.<br>
-Only the Author may create official new versions of this license. Modified versions must be clearly marked (e.g., 3.1.2-Modified), or they are invalid.
+Only the Author may create official new versions of this license. Modified versions must be clearly marked (e.g., 3.1.2-Modified), or they are invalid in a court of law.
 
 
 ## 9. Void of Contract  
