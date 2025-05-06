@@ -1,7 +1,7 @@
 # Bspace License
 Version 3.2.2<br>
 License devolped by Tokyn Blast<br>
-Copyright (c) 2025 Tokyn Blast
+Copyright (c) 2026 Tokyn Blast
 
 
 ## Definitions
