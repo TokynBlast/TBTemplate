@@ -1,5 +1,5 @@
 This is a template.
-There is an automation; Updating the license every 24 hours, if there are changes.
+There is an automation; Updating the license every 24 hours if there are changes.
 By default, this is disabled.
 Go to .github, and rename or remove LicLock.
 The only other change you should make is changing .github/funding.yml
