@@ -1,5 +1,5 @@
 # Bspace License
-Version 3.2.2<br>
+Version 3.3.0<br>
 License devolped by Tokyn Blast<br>
 Copyright (c) 2025 Tokyn Blast
 
