@@ -1,7 +1,7 @@
 # Bspace License
-Version 3.3.0<br>
-License devolped by Tokyn Blast<br>
-Copyright (c) 2025 Tokyn Blast
+Version 4.0.0<br>
+License devolped by Tokyn Blast/Ruri<br>
+Copyright (c) 2025 Tokyn Blast/Ruri
 
 
 ## Definitions
@@ -25,12 +25,12 @@ Subject to the terms of this License, you are granted the rights to:
 1. Use the Program for any legal purpose. (Not commiting a crime, in any participants location),
 2. Modify the Program,
 3. Distribute variations of the Program,
-4. Modify this license,
+4. Modify this license
 
 
 ## 2. Commercial Use
 
-Commercial use is permitted at any time, unless otherwsie stated by any written means.<br>
+Commercial use is permitted at any time unless otherwise stated.<br>
 Written means must be publicly available and noticable.
 
 
@@ -81,8 +81,8 @@ Written means **MUST** be publicly available and noticable.
 
 ## 8. License Modifications
 
-This license may be modified by Developers for their own Variations, provided that Sections 6, 8, and 9, as well as the PreKnowledge and Definitions sections, remain unchanged except for numbering adjustments.<br>
-Only the Author may create official new versions of this license. Modified versions must be clearly marked (e.g., 3.1.2-Modified), or they are invalid in a court of law.
+This license may be modified by anyone for any reason or purpose.<br>
+Only the Author may create official new versions of this license. Modified versions must be clearly marked (e.g., 3.1.2-Modified, Variation of V3.3.0), or this license is not valid evidence in any situation and is immediatley void.
 
 
 ## 9. Void of Contract  
