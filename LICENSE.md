@@ -1,5 +1,5 @@
 # Bspace License
-Version 4.0.0<br>
+Version 4.0.1<br>
 License devolped by Tokyn Blast/Ruri<br>
 Copyright (c) 2025 Tokyn Blast/Ruri
 
@@ -67,7 +67,7 @@ This is based on a variation of Program by Developer."
 ## 6. Liability
 
 The Author is not liable for any Variations or modifications made by other Developers.<br>
-This includes harm to either self, others, properties, or other damagable objects.<br>
+This includes harm to self, others, properties, or other damagable objects.<br>
 This especially includes digital, physical and all other mediums, Including the internet (Or it's contents) itself.<br>
 This applies, without warranties of any kind, express or implied.<br>
 
